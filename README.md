@@ -1,6 +1,6 @@
 # Java-Project
 REST Arhitecure
 
-frontend : React.JS
+frontend : Next.js with React.js , 
 backend : Java Spring
 
